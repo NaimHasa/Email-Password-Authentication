@@ -23,7 +23,7 @@ const App = () => {
       <BasicExample></BasicExample>
 
       {/* <form onSubmit={handleRegister}>
-        <input type="email" name="email" id="" placeholder='Your Email' />
+        <input type="email" name="email" id=""  placeholder='Your Email' />
         <br />
         <br />
         <input type="password" name="password" id="" placeholder='Your Password' />
